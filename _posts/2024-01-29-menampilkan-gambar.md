@@ -18,7 +18,7 @@ Jekyll umumnya menggunakan Markdown untuk format kontennya. Untuk menambahkan ga
 
 markdown
 Copy code
-![Deskripsi Gambar](/path/to/gambar.jpg)
+![Deskripsi Gambar](assets/image/download.jpg)
 Gantilah /path/to/gambar.jpg dengan path relatif dari file Markdown ke gambar yang ingin Anda masukkan. Deskripsi gambar adalah teks yang akan muncul jika gambar tidak dapat dimuat.
 
 Gunakan HTML (Opsional):
